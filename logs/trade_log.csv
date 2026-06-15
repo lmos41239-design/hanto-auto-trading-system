@@ -1,0 +1,4 @@
+date,time,stock_code,current_price,moving_average,signal,quantity,mode,order_status
+2026-06-15,14:20:11,005930,73500,72500.00,BUY,1,simulation,COMPLETED
+2026-06-15,14:22:03,005930,72000,72400.00,SELL,1,simulation,COMPLETED
+2026-06-15,14:24:35,005930,72500,72500.00,HOLD,1,simulation,SKIPPED
